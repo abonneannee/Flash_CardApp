@@ -3,8 +3,7 @@
 ## Lab 1
 
 ### App Description
-
-
+This app show a flashcard question with different answers. So if you click on the correct answer the textview will turn in green color,but if you click on a wrong answer it's will turn in red color.
 ### App Walk-though
 
 
