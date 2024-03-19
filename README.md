@@ -7,7 +7,7 @@ This app show a flashcard question with different answers. So if you click on th
 ### App Walk-though
 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="WhatsApp Video 2024-03-18 at 1.54.40 PM.mp4" width=200><br>
 
 
 
